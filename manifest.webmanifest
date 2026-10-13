@@ -1,0 +1,19 @@
+{
+  "name": "MHサンブレイク BZシナリオ判別",
+  "short_name": "BZ判別",
+  "description": "スマスロ モンスターハンターライズ：サンブレイク BZシナリオ判別アプリ（端末内で計算、通信不要）",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8fe",
+  "theme_color": "#0f2447",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
